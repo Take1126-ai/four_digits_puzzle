@@ -18,7 +18,7 @@
 │   ├── PROJECT_PLAN.md  # 計画書<br>
 │   └── README.md      # このファイル<br>
 └── src/               # ソースコード用ディレクトリ<br>
-    └── main.py<br>
+　　└── main.py<br>
 
 ## 3. 使い方/アプリケーションの実行
 
